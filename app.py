@@ -178,7 +178,7 @@
 # #     - Mobile Friendly
 # #     """)
 # #     st.markdown("---")
-# #     st.markdown("Made with ❤️ by **HMMS** using Streamlit")
+# #     st.markdown("Made with ❤️ by **Muhammad Saad** using Streamlit")
 
 # # # Update the Dynamic CSS styling section with this code
 # # selected_style = theme_styles[st.session_state.theme]
@@ -514,7 +514,7 @@
 #     ✅ **Mobile Friendly**  
 #     """)
 #     st.markdown("---")
-#     st.markdown("Made with ❤️ by **HMMS** using Streamlit 🚀")
+#     st.markdown("Made with ❤️ by **Muhammad Saad** using Streamlit 🚀")
 
 # # Footer Animation
 # st.markdown("""
@@ -634,7 +634,7 @@ with st.sidebar:
     - 📱 **Mobile Friendly**
     """)
     st.markdown("---")
-    st.markdown("<div class='footer'>💙 Made with ❤️ by <b>HMMS</b> using Streamlit</div>", unsafe_allow_html=True)
+    st.markdown("<div class='footer'>💙 Made with ❤️ by <b>Muhammad Saad</b> using Streamlit</div>", unsafe_allow_html=True)
 
 # 🌟 Unit conversion data (same as before)
 unit_conversions = {
